@@ -1,4 +1,4 @@
-module github.com/sarkarshuvojit/simple-seeder-go
+module github.com/sarkarshuvojit/simple-seeder-gorm
 
 go 1.21.0
 
